@@ -1,0 +1,1 @@
+git checkout -t origin/branch-name
